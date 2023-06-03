@@ -12,11 +12,9 @@ Nos dedicamos a levantar proyectos que brindan soluciones a problemas reales, co
 
 ## Proyectos Involucrados
 <details><summary><h3>SGT INACAP RENCA<h3></summary>
- <h4>Sistema de Gestión para Televisores INACAP RENCA<h4>
- <p>SGT INACAP RENCA, es un proyecto que involucra a INACAP sede Renca para crear un sistema multimedia para los televisores dispuesto a lo largo de toda la sede. Funciona con ChromecastV3, C#, Next.JS y Python.</p>
+SGT INACAP RENCA, es un proyecto que involucra a INACAP sede Renca para crear un sistema multimedia para los televisores dispuesto a lo largo de toda la sede. Funciona con ChromecastV3, C#, Next.JS y Python.
 </details>
   
 <details><summary><h3>ODV Oppici x INACAP<h3></summary>
- <h4>Oppici Data Viewer<h4>
- <p>Oppici Data Viewer, es un proyecto que involucra a Oppici y INACAP sede Renca para crear un sistema de trazabilidad remota del estado de Notas de ventas, productos y entregas. Fabricado con NEXT.JS, Prisma y MySQL.</p>
+Oppici Data Viewer, es un proyecto que involucra a Oppici y INACAP sede Renca para crear un sistema de trazabilidad remota del estado de Notas de ventas, productos y entregas. Fabricado con NEXT.JS, Prisma y MySQL.
 </details>
