@@ -1,9 +1,7 @@
 # Club de Tecnologías Didacticas
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://sebamorales74.github.io/club-it/media/quienes.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://sebamorales74.github.io/club-it/media/quienes.svg">
- <img alt="YOUR-ALT-TEXT" src="https://sebamorales74.github.io/club-it/media/quienes.svg">
+ <img alt="ClubTILogo" src="https://sebamorales74.github.io/club-it/media/Club%20IT.svg">
 </picture>
 
 ## ¿Quienes somos?
