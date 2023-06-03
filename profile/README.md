@@ -18,3 +18,7 @@ SGT INACAP RENCA, es un proyecto que involucra a INACAP sede Renca para crear un
 <details><summary><h3>ODV Oppici x INACAP<h3></summary>
 Oppici Data Viewer, es un proyecto que involucra a Oppici y INACAP sede Renca para crear un sistema de trazabilidad remota del estado de Notas de ventas, productos y entregas. Fabricado con NEXT.JS, Prisma y MySQL.
 </details>
+ 
+ <details><summary><h3>GoodPeople<h3></summary>
+GoodPeople, es un proyecto que involucra a Whangarei Primary School y INACAP sede Renca para crear una red social privada para el colegio de eduación primaria "Whangarei Primary School" establecida en Nueva Zelanda. Proyecto está hecho con MongoDB, C# y React Native.
+</details>
