@@ -12,7 +12,6 @@ Nos dedicamos a levantar proyectos que brindan soluciones a problemas reales, co
 
 ## Proyectos Involucrados
 <details><summary>SGT INACAP RENCA</summary>
-<p>
-### Sistema de Gestión para Televisores INACAP RENCA
-</p>
+ <h3>Sistema de Gestión para Televisores INACAP RENCA</h3>
+ <p>SGT INACAP RENCA, es un proyecto que involucra a INACAP sede Renca para crear un sistema multimedia para los televisores dispuesto a lo largo de toda la sede. Funciona con ChromecastV3, C#, Next.JS y Python.</p>
 </details>
