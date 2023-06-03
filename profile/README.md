@@ -13,6 +13,6 @@ Nos dedicamos a levantar proyectos que brindan soluciones a problemas reales, co
 ## Proyectos Involucrados
 <details><summary>SGT INACAP RENCA</summary>
 <p>
-#### Sistema de Gestión para Televisores INACAP RENCA
+### Sistema de Gestión para Televisores INACAP RENCA
 </p>
 </details>
