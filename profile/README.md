@@ -12,13 +12,13 @@ Nos dedicamos a levantar proyectos que brindan soluciones a problemas reales, co
 
 ## Proyectos Involucrados
 <details><summary>SGT INACAP RENCA</summary>
-SGT INACAP RENCA, es un proyecto que involucra a INACAP sede Renca para crear un sistema multimedia para los televisores dispuesto a lo largo de toda la sede. Funciona con ChromecastV3, C#, Next.JS y Python.
+Este es un proyecto que involucra a INACAP sede Renca para crear un sistema multimedia para los televisores dispuesto a lo largo de toda la sede. Funciona con ChromecastV3, C#, Next.JS y Python.
 </details>
 
 <details><summary>Oppici Data Viewer</summary>
-Oppici Data Viewer, es un proyecto que involucra a Oppici y INACAP sede Renca para crear un sistema de trazabilidad remota del estado de Notas de ventas, productos y entregas. Fabricado con NEXT.JS, Prisma y MySQL.
+Este proyecto que involucra a Oppici y INACAP sede Renca para crear un sistema de trazabilidad remota del estado de Notas de ventas, productos y entregas. Fabricado con NEXT.JS, Prisma y MySQL.
 </details>
  
  <details><summary>GoodPeople</summary>
-GoodPeople, es un proyecto que involucra a Whangarei Primary School y INACAP sede Renca para crear una red social privada para el colegio de eduación primaria "Whangarei Primary School" establecida en Nueva Zelanda. Proyecto está hecho con MongoDB, C# y React Native.
+Aquí Whangarei Primary School y INACAP sede Renca para crear una red social privada para el colegio de eduación primaria "Whangarei Primary School" establecida en Nueva Zelanda. Proyecto está hecho con MongoDB, C# y React Native.
 </details>
